@@ -11,7 +11,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
   </a> 
 </div>
-https://github.com/echimuanya75-stack/Diamond-bot/blob/download%20(1).jpeg alt="Diamond-bot" height="300"> 
+
   </a> 
 </div>
 
